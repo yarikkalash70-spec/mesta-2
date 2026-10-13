@@ -1,0 +1,23 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(fone.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.text-box {
+  display: block; 
+  width: 80%; 
+  white-space: normal;
+  background-color: #d7dadd75; 
+  border: 2px solid #4ea9fdd5; 
+  border-radius: 8px;      
+  padding: 15px 20px;     
+  display: inline-block;  
+}  
+.rounded-img {
+  border-radius: 15px;
+}
